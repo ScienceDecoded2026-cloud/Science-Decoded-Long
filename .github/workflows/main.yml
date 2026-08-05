@@ -1,4 +1,4 @@
-name: Auto Render Deep Space Video
+name: Auto Render Science Decoded Video
 
 on:
   repository_dispatch:
