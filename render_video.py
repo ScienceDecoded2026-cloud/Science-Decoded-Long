@@ -14,7 +14,7 @@ chat_id = os.environ.get('CHAT_ID')
 telegram_token = os.environ.get('TELEGRAM_BOT_TOKEN')
 
 # 👇 USA Channel Name Updated 👇
-channel_name = "Science Decoded" 
+channel_name = "Science Decoded®" 
 
 print(f"DEBUG: Processing {len(scenes_data)} scenes async...")
 
